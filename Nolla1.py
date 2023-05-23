@@ -442,7 +442,7 @@ class Main:
 			Main()
  
 	def old(self):
-		x = 111111111
+		x = 1111111
 		xx = 999999999
 		idx = "100000" 
 		os.system('clear');print(logo)
@@ -873,7 +873,7 @@ class Main:
 		self.loop +=1
  
 	def old2(self):
-		x = 1111111111
+		x = 1111111
 		xx = 9999999999
 		idx = "10000" 
 		os.system('clear');print(logo)
